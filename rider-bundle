@@ -9,6 +9,6 @@
 	<link href="static/swiper.css" rel="stylesheet" >
 </head>
 <body>
-	<script src="static/inner-child.js"></script>
+	
 </body>
 </html>
